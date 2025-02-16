@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Gary Baker – Software Engineer & Problem Solver
 
-<!--
-**garybakerAUGI/garybakerAUGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love solving **real-world coding challenges** and helping developers build **better, faster, and more efficient software**. Whether it's **debugging, optimization, automation, or AI-powered solutions**, I’m here to **make code work smarter**.
 
-Here are some ideas to get you started:
+🔹 **What I Do:**  
+✔️ **Debugging & Optimization** – Finding and fixing complex software issues.  
+✔️ **Software Architecture & Development** – Helping build reliable, scalable applications.  
+✔️ **AI & Automation** – Leveraging intelligent solutions when they make sense.  
+✔️ **Open-Source Contributions** – Improving and supporting community projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **How I Help:**  
+✔️ **Fixing bugs, performance issues, and software bottlenecks.**  
+✔️ **Assisting with full-stack, backend, and systems-level development.**  
+✔️ **Applying AI-driven solutions where they add real value.**  
+
+**Need help with a coding project?** Let’s talk!  
