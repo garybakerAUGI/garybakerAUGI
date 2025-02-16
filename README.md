@@ -9,8 +9,8 @@ I love solving **real-world coding challenges** and helping developers build **b
 ✔️ **Open-Source Contributions** – Improving and supporting community projects.  
 
 🔹 **How I Help:**  
-✔️ **Fixing bugs, performance issues, and software bottlenecks.**  
-✔️ **Assisting with full-stack, backend, and systems-level development.**  
-✔️ **Applying AI-driven solutions where they add real value.**  
+✅ **Fixing bugs, performance issues, and software bottlenecks.**  
+✅ **Assisting with full-stack, backend, and systems-level development.**  
+✅ **Applying AI-driven solutions where they add real value.**  
 
 **Need help with a coding project?** Let’s talk!  
